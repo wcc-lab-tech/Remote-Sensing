@@ -7,7 +7,7 @@
     "data2": 2,
     "data3": 3,
     "data4": 4,
-    "data5": 5
+    "data5": "True"
   },
   "session": "6872ec1c-288b-4db1-a538-689711732fd5",
   "transport": "lorawan:ttn",
