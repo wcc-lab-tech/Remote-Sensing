@@ -1,0 +1,3 @@
+# Laptop tools only. The Pico needs just MicroPython plus the note-python library.
+pandas
+matplotlib

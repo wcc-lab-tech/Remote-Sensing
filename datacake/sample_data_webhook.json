@@ -1,0 +1,25 @@
+{
+  "event": "232acb2c-924a-80f9-89dd-27cff8b7b403",
+  "when": 1794522024,
+  "file": "data.qo",
+  "body": {
+    "data1": 1,
+    "data2": 2,
+    "data3": 3,
+    "data4": 4,
+    "data5": 5
+  },
+  "session": "6872ec1c-288b-4db1-a538-689711732fd5",
+  "transport": "lorawan:ttn",
+  "best_id": "dev:0080e11500452ae2",
+  "device": "dev:0080e11500452ae2",
+  "product": "product:edu.whatcom.JVanHyning:test",
+  "app": "app:20a6b36f-4432-46b6-b7a7-4f7635caf000",
+  "received": 1794522023.786602,
+  "req": "note.add",
+  "wire_length": 17,
+  "status": "success",
+  "fleets": [
+    "fleet:66b697e3-9cff-473d-a8d9-c291063f2283"
+  ]
+}

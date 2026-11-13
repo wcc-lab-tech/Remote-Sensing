@@ -1,0 +1,1 @@
+{"memory": [["RollingAverage", [327.6608, 327.6608, 327.6608, 327.6608]], ["RateOfChange", [327.6608, 1794608687]], ["Trigger", false]], "notecard_cleared": true, "templates": "[[[\"data1\", 12], [\"data2\", 14], [\"data3\", 12.1], [\"data4\", 14.1], [\"data5\", true]], []]", "hub_setup": "[\"edu.whatcom.JVanHyning:test\", 1]", "last_time": 1794608687}
